@@ -1,4 +1,4 @@
-#Contextual-RAG-QA-for-Youtube-Videos
+## Contextual-RAG-QA-for-Youtube-Videos
 Utilizing Pinecone to query relevant contexts and retrieve pertinent information.
 Employing an OpenAI generative model to generate answers backed by real data sources.
 Implementing fine-tuning of the Language Model (LLM) on specialized text data, including articles and papers on sentence transformers and semantic search training methods.
