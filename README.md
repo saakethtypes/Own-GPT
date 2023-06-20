@@ -1,6 +1,5 @@
 ## Your own Chat GPT (Contextual-RAG-QA)
 
-
 This particular GPT is a specialised on information about canon r5 camera based on youtube reviews transcripts text
 * Utilizing Pinecone to query relevant contexts and retrieve pertinent information this application serves as advanced GPT bot based on custom data.
 * Employing an OpenAI generative model to generate answers backed by data sources you provide.
