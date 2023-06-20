@@ -7,4 +7,4 @@ This particular GPT is a specialised on information about canon r5 camera based 
 * Retrieval Augmented Generation (RAG) as an alternative approach, integrating information retrieval components into the generation process for improved accuracy.
 * OpenAI embeddings allow dense vector embeddings, numerical representations of sentence meaning, to retrieve semantically related information.
   
-[[download.png]]
+![Own GPT Model on Product Reviews](download.png)
