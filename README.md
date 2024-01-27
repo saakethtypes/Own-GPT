@@ -1,4 +1,4 @@
-## Your own Chat GPT (Contextual-RAG-QA)
+##  Chat GPT on Your data (Contextual-RAG-QA)
 
 This particular GPT is a specialised on information about canon r5 camera based on  transcripts text of youtube reviews
 * Utilizing Pinecone to query relevant contexts and retrieve pertinent information this application serves as advanced GPT bot based on custom data.
